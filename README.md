@@ -18,7 +18,7 @@ I am a first year master student at Carnegie Mellon University studying Informat
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />
-<img align="left" alt="GDB" width="26px" src="https://www.gnu.org/software/gdb/images/archer.svg" />
+<img align="left" alt="GDB" width="34px" src="https://www.gnu.org/software/gdb/images/archer.svg" />
 <img align="left" alt="Wireshark" width="26px" src="https://avatars.githubusercontent.com/u/6233056?s=200&v=4" />
 <img align="left" alt="Cutter" width="26px" src="https://raw.githubusercontent.com/rizinorg/cutter/master/src/img/cutter.svg?sanitize=true" />
 <br />
