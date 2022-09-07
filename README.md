@@ -1,9 +1,9 @@
 ### Hi, I'm Yu-Hsin, or call me Becky 👋
 
-I am a first year master student at Carnegie Mellon University studying Information Security. My main interest is system security, reverse engineering, and cryptography. **I just finished a summer internship at Academia Sinica researching post-quantum cryptography.**
+I am a first year master student at Carnegie Mellon University studying Information Security. My main interest is penetration testing, reverse engineering, and cryptography. **I just finished a summer internship at Security Innovation where I did penetration testing on web applications.**
 
-- ⛰️ I’m currently applying for summer 2022 internship
-- 🌱 Aside from courses of CMU, I am also self-learning cybersecurity by doing Hack The Box and other CTFs
+- ⛰️ I am currently applying for full time job opportunities
+- 🌱 I am preparing for OSCP
 - 🖋️ I also do some [sketching and design](https://www.instagram.com/whaleshark.draw/)
 
 ### Languages
