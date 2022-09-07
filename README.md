@@ -1,6 +1,6 @@
 ### Hi, I'm Yu-Hsin, or call me Becky 👋
 
-I am a first year master student at Carnegie Mellon University studying Information Security. My main interest is penetration testing, reverse engineering, and cryptography. **I just finished a summer internship at Security Innovation where I did penetration testing on web applications.**
+I am a second year master student at Carnegie Mellon University studying Information Security. My main interest is penetration testing, reverse engineering, and cryptography. **I just finished a summer internship at Security Innovation where I did penetration testing on web applications.**
 
 - ⛰️ I am currently applying for full time job opportunities
 - 🌱 I am preparing for OSCP
